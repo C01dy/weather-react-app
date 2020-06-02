@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+.left-column {
+    text-align: center;
+    line-height: 1.1em;
+}
