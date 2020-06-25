@@ -12,3 +12,5 @@ The application for receiving the current weather in your city, in order to get 
 ## Available Scripts
 In the project directory, you can run:
 ### `npm start`
+
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
