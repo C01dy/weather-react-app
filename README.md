@@ -13,4 +13,4 @@ The application for receiving the current weather in your city, in order to get 
 In the project directory, you can run:
 ### `npm start`
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gettyimages.com%2Fcollections%2F500px&psig=AOvVaw0CO8psbpnihibeRFM2Q_it&ust=1593196487441000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIj6_cjNneoCFQAAAAAdAAAAABAD
